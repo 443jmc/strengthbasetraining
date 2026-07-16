@@ -4,9 +4,8 @@ Single-page site for [strengthbasetraining.com](https://strengthbasetraining.com
 
 ## Structure
 
-- `index.html` — the page
-- `styles.css` — all styles (sage + gold palette matching Strength-Based Marriage, Playfair Display + Inter)
-- `script.js` — mobile nav toggle + scroll shadow
+- `index.html` — the page (intro + three parts + contact)
+- `styles.css` — styles (sage palette, Playfair Display + Inter)
 - `_headers` — Cloudflare Pages cache headers
 
 ## Local preview
