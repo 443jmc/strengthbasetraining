@@ -5,7 +5,7 @@ Single-page site for [strengthbasetraining.com](https://strengthbasetraining.com
 ## Structure
 
 - `index.html` — the page
-- `styles.css` — all styles (charcoal + terracotta palette, Fraunces + Inter)
+- `styles.css` — all styles (sage + gold palette matching Strength-Based Marriage, Playfair Display + Inter)
 - `script.js` — mobile nav toggle + scroll shadow
 - `_headers` — Cloudflare Pages cache headers
 
